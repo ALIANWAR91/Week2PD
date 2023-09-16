@@ -10,14 +10,14 @@ int main()
 	cout<<"                *      *      *                                                                             "<<endl;
 	cout<<"                 *      *      *                                                                            "<<endl;
 	cout<<"                   *      *      *                                                                          "<<endl;
-	cout<<"         **********************************                                                                  "<<endl;                              "<<endl;
+	cout<<"         **********************************                                                                  "<<endl;
 	cout<<"          *                              *                                                                 "<<endl;
 	cout<<"           *                            *                                                                  "<<endl;
 	cout<<"            *                          *                                                                   "<<endl;
 	cout<<"             *                        *                                                                    "<<endl;
-	cout<<"               **********************                                                                     "<<endl;                    "<<endl;
+	cout<<"               **********************                                                                     "<<endl;
 	cout<<"                                                                                                         "<<endl;
-	cout<<"            WELCOME TO FOODY APPLICATION                                                                 "<<endl;                                "<<endl;
+	cout<<"            WELCOME TO FOODY APPLICATION                                                                 "<<endl;
 	cout<<"                                                                                                         "<<endl;
 	cout<<"                                                                                                         "<<endl;
 }
